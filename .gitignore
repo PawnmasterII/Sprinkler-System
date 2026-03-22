@@ -8,8 +8,6 @@ sprinkler
 # Runtime-generated save files
 garden_save.txt
 
-# Claude Code internal folder
-.claude/
 
 # VSCode (optional — remove these lines if you want to share your build config)
 # .vscode/
